@@ -12,6 +12,8 @@ export default class Pranav extends Component {
     return (
       <View>
         <Text> Pranav </Text>
+        <Text> Anup </Text>
+
       </View>
     );
   }
