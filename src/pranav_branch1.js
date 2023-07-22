@@ -1,3 +1,4 @@
 function ClearText(){
-    var text = 'Test'
+    var text = 'SK_branchTest'
+    var Sk = 'abc'
 }
