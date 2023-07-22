@@ -6,7 +6,7 @@ function displayText() {
 import { Text, View } from 'react-native'
 import React, { Component } from 'react'
 
-export default class pranav_branch1 extends Component {
+export default class pranav_branch2 extends Component {
   render() {
     return (
       <View>
